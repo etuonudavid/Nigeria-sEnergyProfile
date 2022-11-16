@@ -10,5 +10,5 @@ This Data visualization answers the questions such as
 Access to electricity refers to having enough electricity to power phone, radio, light bulbs and basic domestic electrical appliances for at least 4 hours a day
 The data used is gotten from OUR WORLD DATA
 
-** Tool used **
+**Tool used**
 Power BI
